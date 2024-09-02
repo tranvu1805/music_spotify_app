@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021499957426",
+    "project_id": "music-app-15a28",
+    "storage_bucket": "music-app-15a28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021499957426:android:a9d35cb794beec1585a9ab",
+        "android_client_info": {
+          "package_name": "com.example.music_spotify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-e83tOrenEeRrMnvfmq2xuH5XmZY8O_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
